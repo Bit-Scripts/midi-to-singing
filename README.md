@@ -122,7 +122,7 @@ export REPLICATE_API_TOKEN=<votre_token>
 
 1. Clonez le dépôt :
 ```bash
-git clone https://github.com/<votre-utilisateur>/midi-to-singing.git
+git clone https://github.com/Bit-Scripts/midi-to-singing
 cd midi-to-singing
 ```
 
