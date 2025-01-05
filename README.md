@@ -141,9 +141,9 @@ Ce projet est distribu√© sous la licence GPL v3. Voir LICENSE.md pour plus de d√
 ---
 
 ## Ressources
-[RVC v2 Repository](https://github.com/RVC-repo)
-[Documentation PyQt6](https://doc.qt.io/qtforpython-6/)
-[GPL v3 Markdown File](./LICENSE.md)
+[RVC v2 Repository](https://github.com/RVC-repo)  
+[Documentation PyQt6](https://doc.qt.io/qtforpython-6/)   
+[GPL v3 Markdown File](./LICENSE.md)  
 
 ---
 
