@@ -1,0 +1,38 @@
+# Fichiers de modèles ou ressources lourdes
+*.pth
+*.zip
+
+# Fichiers MIDI et fichiers textes spécifiques au projet
+*.mid
+*.txt
+
+# Fichiers audio générés
+*.wav
+
+# Répertoires spécifiques au projet
+./old/
+./.lprof/
+
+# Caches Python
+__pycache__/
+*.py[cod]
+
+# Journaux, logs ou fichiers temporaires
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Environnements virtuels
+venv/
+env/
+.myenv/
+
+# Fichiers spécifiques à l'IDE/éditeur
+.vscode/
+.idea/
+
+# Autres fichiers système ou d'environnement
+.DS_Store
+Thumbs.db
+
